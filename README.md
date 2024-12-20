@@ -21,3 +21,4 @@ Konum Seçimi: Harita üzerinde bir nokta seçin ve işaret koyun.
 İkon Ekleme: İsteğinize uygun bir ikon seçerek işareti kişiselleştirin.
 Not Ekleme: İşaretlediğiniz konuma not ekleyerek açıklamalarınızı kaydedin.
 
+![NoteMap-Personal-MicrosoftEdge2024-12-1922-39-32-ezgif com-resize](https://github.com/user-attachments/assets/20047c41-4420-4616-ad0a-5c8c4f21d349)
